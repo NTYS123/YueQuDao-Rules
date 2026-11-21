@@ -1,0 +1,10 @@
+# Never commit owner signing material or local build configuration
+*.pem
+*.key
+*.p12
+*.keystore
+.env
+.env.*
+private/
+.yuequdao/
+trusted_rules.json
