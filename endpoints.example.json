@@ -1,0 +1,5 @@
+{
+  "primary_post": "https://api5-normal-sinfonlinea.fqnovel.com/novel/player/multi_video_model/player/v1",
+  "video_tab_get": "https://api5-normal-sinfonlineb.fqnovel.com/reading/bookapi/video_tab/multi_video_model/v1/",
+  "compat_post": "https://api5-normal-sinfonlinea.fqnovel.com/novel/player/multi_video_model/v1/"
+}
